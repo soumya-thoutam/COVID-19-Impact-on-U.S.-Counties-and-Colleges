@@ -32,4 +32,4 @@ Findings and recommendations aimed at aiding public health officials and educati
 
 ### Publication
 * **Medium Article:**\
-While this project is focused on SQL queries, the findings and insights have been presented in a structured report. This includes an explanation of the methodology, data sources, and key outcomes.
+While this project is focused on SQL queries, the findings and insights have been presented in a structured report. This includes an explanation of the methodology, data sources, and key outcomes - [View Article](https://soumya-thoutam.medium.com/covid-19-analyzing-the-impact-on-u-s-states-and-colleges-with-sql-3aa3531c3a6e)
