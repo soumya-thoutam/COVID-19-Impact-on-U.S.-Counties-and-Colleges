@@ -12,13 +12,9 @@ The primary objective of this analysis is to examine the global and United State
 
 **Analytical Tools & Technologies**
 
-* Microsoft SQL Server 2019: Utilized for conducting comprehensive data analysis, including complex queries and data aggregations. SQL scripts were employed to clean, organize, and analyze the data in a structured and efficient manner.
-
-    View SQL scripts here
+* Microsoft SQL Server : Utilized for conducting comprehensive data analysis, including complex queries and data aggregations. SQL scripts were employed to clean, organize, and analyze the data in a structured and efficient manner - View SQL scripts 
   
-* Tableau: Leveraged for the creation of interactive and visually compelling data visualizations. Dashboards were designed to present trends, patterns, and anomalies, providing stakeholders with actionable insights on Covid-19 cases, deaths, and regional variations.
-
-    View the interactive dashboard here
+* Tableau: Leveraged for the creation of interactive and visually compelling data visualizations. Dashboards were designed to present trends, patterns, and anomalies, providing stakeholders with actionable insights on Covid-19 cases, deaths, and regional variations - View the dashboard
 
 **Key Insights and Deliverables**
 
@@ -31,4 +27,4 @@ The primary objective of this analysis is to examine the global and United State
 
 * Medium Article: A detailed write-up explaining the methodology, findings, and implications of the analysis. The article includes visualizations, summaries of key insights, and recommendations for action.
 
-    Link to Article
+  
