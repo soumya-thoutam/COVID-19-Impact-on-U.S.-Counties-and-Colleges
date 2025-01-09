@@ -6,8 +6,8 @@ The objective of this analysis is to examine the U.S.-specific impact of the Cov
 
 ### Dataset
 
-* **Covid-19 U.S. Data:**\
-  Dataset provides detailed U.S. statistics, including state-level and county-level data. Sourced from the [NY Times Covid-19 Data Repository](https://github.com/nytimes/covid-19-data).
+* **Covid-19 Global and United States Data:**\
+  Dataset includes global case and death statistics, as well as detailed state-level and county-level data for the United States. Sourced U.S., data from the [NY Times Covid-19 Data Repository](https://github.com/nytimes/covid-19-data) and the global data from [Kaggle](https://www.kaggle.com/datasets/sandhyakrishnan02/latest-covid-19-dataset-worldwide).
 
 * **U.S. States and Counties Data:**\
 Includes geographic and demographic information, essential for analyzing Covid-19's regional impact.
