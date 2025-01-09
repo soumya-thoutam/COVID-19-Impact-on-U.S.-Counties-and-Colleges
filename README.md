@@ -1,4 +1,4 @@
-# COVID-19 - Impact on U.S Counties and Colleges
+# COVID-19 - Impact on U.S States and Colleges
 
 **Business Objective**
 
