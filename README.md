@@ -12,7 +12,7 @@ The primary objective of this analysis is to examine the global and United State
 
 **Analytical Tools & Technologies**
 
-* Microsoft SQL Server : Utilized for conducting comprehensive data analysis, including complex queries and data aggregations. SQL scripts were employed to clean, organize, and analyze the data in a structured and efficient manner - View SQL scripts 
+* Microsoft SQL Server : Utilized for conducting comprehensive data analysis, including complex queries and data aggregations. SQL scripts were employed to clean, organize, and analyze the data in a structured and efficient manner - [View SQL scripts](https://github.com/soumya-thoutam/COVID-19-Impact-on-U.S.-States-and-Colleges/blob/main/SQLQuery.sql) 
   
 * Tableau: Leveraged for the creation of interactive and visually compelling data visualizations. Dashboards were designed to present trends, patterns, and anomalies, providing stakeholders with actionable insights on Covid-19 cases, deaths, and regional variations - View the dashboard
 
